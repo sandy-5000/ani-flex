@@ -34,8 +34,8 @@ const { banner, features }: Homepage = homepage.data;
           <p set:html={markdownify(banner.content)} class="mb-8" />
           {
             banner.button.enable && (
-              <a class="btn btn-primary" href={banner.button.link}>
-                {banner.button.label}
+              <a class="btn btn-primary" href="/search">
+                Search Anime
               </a>
             )
           }

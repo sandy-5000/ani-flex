@@ -1,13 +1,11 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "An Anime Website For Watching and Downloading Anime For Free"
+  content: "AnimePLATE is a free website, Any content in AnimePLATE was taken from another websites, therefore you should still be able to find the same content in original sites."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/astroplate"
 
 # Features
 features:
